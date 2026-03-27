@@ -38,3 +38,7 @@ Az alkalmazás a legmodernebb Android technológiákat használja:
 
 ---
 
+<img width="1734" height="962" alt="Képernyőkép 2026-03-27 122621" src="https://github.com/user-attachments/assets/0fb537b6-7bca-4480-8fc7-210b151dca6d" />
+<img width="1734" height="962" alt="Képernyőkép 2026-03-27 122625" src="https://github.com/user-attachments/assets/2e269954-b4e0-4438-b84c-081b90d72e64" />
+
+

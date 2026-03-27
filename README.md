@@ -21,6 +21,15 @@ Az alkalmazás a legmodernebb Android technológiákat használja:
 - **StateFlow**: Reaktív adatfolyam, amely biztosítja, hogy a kijelző mindig az aktuális adatbázis-állapotot mutassa.
 - **Splash Screen API**: Modern indítóképernyő a professzionális élményért.
 
+## 📦 Telepítés és Futtatás
+
+1. **Klónozás**: Töltsd le a projektet a GitHub-ról vagy másold a forráskódot egy mappába.
+    * git clone https://github.com/dajkagabi/Smart_Todo_List.git
+2. **Android Studio**: Nyisd meg az Android Studio-t (Ladybug vagy újabb verzió javasolt).
+3. **Gradle Sync**: Várd meg, amíg az IDE letölti a függőségeket és szinkronizálja a projektet (elefánt ikon).
+4. **Eszköz kiválasztása**: Csatlakoztass egy Wear OS okosórát vagy indíts el egy Wear OS emulátort.
+5. **Indítás**: Kattints a zöld **Run** gombra az Android Studio tetején.
+
 ## 📁 Projekt felépítése
 
 - `data/`: Az adatbázis entitások, a DAO (adatkezelő parancsok) és az adatbázis konfiguráció helye.
